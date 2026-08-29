@@ -20,5 +20,5 @@ Estudante de Desenvolvimento de Sistemas focado em construir aplicações web fu
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlospamartins)
-- 📧 CarlosPaMartins@email.com
+- 📧 **E-mail:** Carlospamartins@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/carlospamartins](https://www.linkedin.com/in/carlospamartins)
