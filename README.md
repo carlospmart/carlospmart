@@ -1,61 +1,24 @@
-<div align="center">
-  
-  <!-- Título de Boas-Vindas com efeito Roxo -->
-  <h1><samp>Olá, eu sou um Desenvolvedor em Construção! 💜</samp></h1>
+# Carlos Martins
 
-  <!-- Banner/Gifs Estilizados em Roxo -->
-  <img src="https://githubusercontent.com" width="400" alt="Purple Theme Banner"/>
+**Desenvolvedor Web | Front-end & Full Stack**
 
-  <p align="center">
-    <!-- Substitua SEU_USUARIO pelo seu username do GitHub nos links abaixo -->
-    <img src="https://shields.io" alt="Followers"/>
-    <img src="https://shields.io" alt="Stars"/>
-  </p>
-
-  <samp>
-    "O código é como humor. Quando você tem que explicar, é ruim."
-  </samp>
-</div>
-
-## 🌌 Sobre Mim
-
-- 🎓 Estou cursando **Desenvolvimento de Sistemas** na escola **Ana Vanda**.
-- 🚀 Iniciei minha jornada na programação este ano (2026)!
-- 🎯 Meu foco atual é dominar o desenvolvimento Full Stack e arquitetura de software.
+Estudante de Desenvolvimento de Sistemas focado em construir aplicações web funcionais com React, TypeScript e ecossistema Python/Node.
 
 ---
 
-## 🔮 Tecnologias e Habilidades
+### 🛠️ Stack Principal
 
-Aqui estão as ferramentas e linguagens que utilizo e estou aprendendo no momento, filtradas na minha paleta favorita:
+**Front-end:** React, TypeScript, JavaScript (ES6+), SCSS, HTML5/CSS3  
+**Back-end & DB:** Python (Flask), Java, MySQL, PostgreSQL  
+**Ferramentas:** Git, GitHub, Figma, VSCode  
 
-### 🌐 Front-end
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Vue.js](https://shields.io)
+### 🎓 Formação
 
-### ⚙️ Back-end
-![Python](https://shields.io)
-![Flask](https://shields.io)
-
-### 📚 Estudando Atualmente
-![Go](https://shields.io)
+- **Técnico em Desenvolvimento de Sistemas** — Escola Ana Vanda (Inicio-2026 | Atualmente)
 
 ---
 
-## 📊 Estatísticas do GitHub (Tema Roxo Neon)
+### 📫 Contato
 
-<div align="center">
-  <!-- Card de Estatísticas Gerais (Substitua SEU_USUARIO pelo seu username) -->
-  <img src="https://vercel.app" alt="Suas Estatísticas" height="192px"/>
-
-  <!-- Card de Linguagens Mais Usadas (Substitua SEU_USUARIO pelo seu username) -->
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="192px"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Construído com 💜 e persistência.</sub>
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlospamartins)
+- 📧 CarlosPaMartins@email.com
