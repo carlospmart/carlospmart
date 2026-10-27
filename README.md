@@ -9,7 +9,7 @@ Estudante de Desenvolvimento de Sistemas focado em construir aplicações web fu
 ### 🛠️ Stack Principal
 
 **Front-end:** React, TypeScript, JavaScript (ES6+), SCSS, HTML5/CSS3  
-**Back-end & DB:** Python (Flask), Java, MySQL, PostgreSQL  
+**Back-end & DB:** Python (Flask), MySQL  
 **Ferramentas:** Git, GitHub, Figma, VSCode  
 
 ### 🎓 Formação
