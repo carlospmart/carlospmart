@@ -2,14 +2,14 @@
 
 **Desenvolvedor Web | Front-end & Full Stack**
 
-Estudante de Desenvolvimento de Sistemas focado em construir aplicações web funcionais com React, TypeScript e ecossistema Python/Node.
+Estudante de Desenvolvimento de Sistemas focado em construir aplicações web funcionais com React, TypeScript e ecossistema Python, Node e PHP.
 
 ---
 
 ### 🛠️ Stack Principal
 
 **Front-end:** React, TypeScript, JavaScript (ES6+), SCSS, HTML5/CSS3  
-**Back-end & DB:** Python (Flask), MySQL  
+**Back-end & DB:** Python (Flask), PHP, MySQL  
 **Ferramentas:** Git, GitHub, Figma, VSCode  
 
 ### 🎓 Formação
